@@ -1,4 +1,4 @@
 Templates
 =========
 
-Templates for Plex Channel Design
+Templates for Plex Channel Development
